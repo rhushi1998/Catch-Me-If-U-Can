@@ -38,7 +38,7 @@ https://rhushi1998.github.io/Catch-Me-If-U-Can/
 }
 
 ```
-#JS
+# JS
 ```
 var box = document.getElementById('box');
 var viewWidth = window.innerWidth;
